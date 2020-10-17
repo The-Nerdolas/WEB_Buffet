@@ -6,4 +6,4 @@ Buffet para fins educacionais
 <br>
 <br>
 <br>
-> #EMPRESA FICTÍCIA
+> EMPRESA FICTÍCIA
